@@ -1,0 +1,10 @@
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-08 05:56:30.347', '', 8, '659720251108');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-11 11:19:15.555', '', 9, '186020251111');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-11 11:29:32.892', '', 10, '723020251111');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-12 15:10:27.211', '', 11, '126220251112');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-13 14:55:47.420', 'tharamangalam', 12, '993520251113');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-15 06:32:28.994', 'VASAVI DHANDAPANI', 13, '971920251115');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-15 16:15:00.297', '', 14, '808520251115');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-20 08:12:53.006', 'NGT STOCK', 15, '762020251120');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-20 08:30:09.506', 'BALAJI', 16, '123020251120');
+insert into `restors` (`created_at`, `description`, `id`, `restore_number`) values ('2025-11-22 10:21:55.978', '', 17, '831920251122');

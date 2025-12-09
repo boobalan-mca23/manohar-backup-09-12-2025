@@ -1,0 +1,12 @@
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('DHANDAPANI', '646420251106', '2025-11-06 06:46:46.835', 41);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('THARAMANGALAM', '991020251112', '2025-11-12 12:05:25.420', 46);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('THARAMANGALAM 2', '479520251112', '2025-11-12 15:14:53.550', 47);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('VASAVI DHANDAPANI  13.11.25 ', '374720251113', '2025-11-13 15:30:19.485', 48);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('VASAVI DHANDAPANI  13.11.25 ', '175820251113', '2025-11-13 15:30:52.914', 49);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('VASAVI DHANDAPANI  13.11.25 ', '782020251113', '2025-11-13 15:30:57.542', 50);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('KMU ', '285720251114', '2025-11-14 14:10:24.235', 51);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('BALAJI ', '149220251117', '2025-11-17 14:50:53.402', 52);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('NGT STOCK', '269420251118', '2025-11-18 16:23:41.165', 53);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('11', '134020251122', '2025-11-22 10:21:17.347', 54);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('GRT', '670520251201', '2025-12-01 07:37:00.232', 55);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('kannan', '758020251203', '2025-12-03 07:42:59.234', 56);
